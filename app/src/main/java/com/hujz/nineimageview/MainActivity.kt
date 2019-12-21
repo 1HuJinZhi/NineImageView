@@ -33,14 +33,14 @@ class MainActivity : AppCompatActivity() {
         list.add(
             CircleInfo(
                 list = arrayListOf(
-                    "https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/image/h%3D300/sign=efb47ed806fa513d4eaa6ade0d6d554c/cb8065380cd79123e9e67f70a3345982b2b780b4.jpg"
+                    "https://w.wallhaven.cc/full/ym/wallhaven-ymgq1d.jpg"
                 )
             )
         )
         list.add(
             CircleInfo(
                 list = arrayListOf(
-                    "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1554227871051&di=1a4ca9d7a9b45cce4dbae052d859c5d1&imgtype=0&src=http%3A%2F%2Fimage.yy.com%2Fyywebalbumbs2bucket%2F0e912df9174b490992c2f2ccf97f26bc_1497908005893.jpeg"
+                    "https://w.wallhaven.cc/full/2e/wallhaven-2eoqdx.png"
                 )
             )
         )
@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
             CircleInfo(
                 list = arrayListOf(
                     "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1548756837006&di=551df0dcf59d1d71673c3d46b33f0d93&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201308%2F04%2F20130804155912_wCRnE.thumb.700_0.jpeg",
-                    "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2279952540,2544282724&fm=26&gp=0.jpg"
+                    "https://w.wallhaven.cc/full/x1/wallhaven-x1z683.jpg"
                 )
             )
         )
